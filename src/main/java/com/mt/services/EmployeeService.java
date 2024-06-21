@@ -19,10 +19,9 @@ public class EmployeeService {
 	@GetMapping
 	@ResponseBody
 	@RequestMapping("/greet", method = GET)
-public String greet(String greetee) {
+	
 			
-
-		JSONObject js = new JSONObject();
+                JSONObject js = new JSONObject();
 		js.put("Name", "Landmark Technologies");
 		js.put("Calling Name", "Landmark");
 		js.put("DOB", "08-Nov-2011");
