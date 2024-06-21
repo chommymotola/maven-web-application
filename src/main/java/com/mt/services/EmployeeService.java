@@ -18,8 +18,8 @@ public class EmployeeService {
 	
 	@GetMapping
 	@ResponseBody
-	@RequestMapping("/greet", method = GET)
-	
+	String uploadImage(HttpServletRequest request, HttpServletResponse response, HttpSession httpSession)
+	                throws JSONException {
 			
                 JSONObject js = new JSONObject();
 		js.put("Name", "Landmark Technologies");
