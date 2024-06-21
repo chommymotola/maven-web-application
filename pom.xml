@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://54.89.182.20:8089/landmark/repository/fintech-fe-snapshots/</url>
+	      <url>//http://54.89.182.20:8089/landmark/repository/fintech-fe-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
