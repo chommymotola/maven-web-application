@@ -16,6 +16,7 @@
         Landmark Technologies, the Pride of Africa.
 	Class36 DevOps MasterClass started on April 13, 2024.
         Class37 DevOps MasterClass will start on July 13, 2024.
+        Team 04 is now the leading team in class36.
         Please invite all your contacts and friends for this life changing course.
 </h1>
 <hr>
