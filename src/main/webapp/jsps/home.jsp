@@ -17,6 +17,7 @@
 	Class36 DevOps MasterClass started on April 13, 2024.
         Class37 DevOps MasterClass will start on July 13, 2024.
         Team 04 is now the leading team in class36.
+        Kindly join us tomorrow being 23rd of June for a life changing course where you will hear and see first hand testimony of our Engineers that are earning six figures.
         Please invite all your contacts and friends for this life changing course.
 </h1>
 <hr>
