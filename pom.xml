@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://100.26.10.194:8089/landmark/repository/chasebank-webapp-releases/</url>
+	      <url>http://100.26.10.194:8089/landmark/repository/fintech-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://100.26.10.194:8089/landmark/repository/chasebank-webapp-snapshots/</url>
+	      <url>http://100.26.10.194:8089/landmark/repository/fintech-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
