@@ -22,7 +22,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://18.207.139.20:9000/</sonar.host.url> 
+		<sonar.host.url>http://54.145.79.239:9000/</sonar.host.url> 
 		<sonar.login>fb411bbf459e35a64069095a6333f01a3e3b01fc</sonar.login>
 		<!-- <sonar.password>admin</sonar.password> -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.86.136.9:8089/landmark/repository/costco-releases/</url>
+	      <url>http://100.25.151.128:8089/landmark/repository/costco-be-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.86.136.9:8089/landmark/repository/costco-snapshots/</url>
+	      <url>http://100.25.151.128:8089/landmark/repository/costco-be-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
